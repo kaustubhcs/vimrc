@@ -75,7 +75,10 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'scrooloose/nerdtree'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'octol/vim-cpp-enhanced-highlight'
-Plugin 'Valloric/YouCompleteMe'  " install YouCompleteMe
+
+"Plugin 'Valloric/YouCompleteMe'  " install YouCompleteMe
+
+
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'terryma/vim-multiple-cursors'
